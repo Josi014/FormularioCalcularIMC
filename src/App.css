@@ -44,3 +44,21 @@ h1{
   outline: none;
   pointer-events: none;
 }
+
+form{
+  width: 150px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input{
+  border-radius: 3px;
+  border: none;
+  padding: 5px;
+}
+
+p{
+  font-weight: bolder;
+}
